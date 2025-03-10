@@ -1,2 +1,1 @@
-name = input("What is your name? ")
-print(f"Hello, {name}!")
+print("Hello from feature-2 branch!")
